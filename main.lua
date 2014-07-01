@@ -1,4 +1,4 @@
-
+--By Mailmanq & Norway240
 function love.load()	
 
 end
