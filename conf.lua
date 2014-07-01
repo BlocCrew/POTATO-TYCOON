@@ -8,7 +8,7 @@ function love.conf(t)
     t.modules.timer = true           -- Enable the timer module (boolean)
     t.modules.mouse = true           -- Enable the mouse module (boolean)
     t.modules.sound = true           -- Enable the sound module (boolean)
-	t.modules.thread = true
+    t.modules.thread = true
     t.modules.physics = true         -- Enable the physics module (boolean)
     t.console = false                -- Attach a console (boolean, Windows only)
     t.title = "POTATO TYCOON"        -- The title of the window the game is in (string)
